@@ -1,0 +1,12 @@
+
+class: Expense
+table: expense
+
+fields:
+  amount: double
+  description: String
+  date: DateTime
+  category: String
+  userId: int
+  createdAt: DateTime
+  updatedAt: DateTime  
